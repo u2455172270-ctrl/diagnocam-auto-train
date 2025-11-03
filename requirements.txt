@@ -1,0 +1,4 @@
+ultralytics==8.3.21
+supabase==2.6.0
+opencv-python-headless==4.10.0.84
+albumentations==1.4.7
